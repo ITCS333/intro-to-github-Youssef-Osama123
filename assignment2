@@ -21,7 +21,7 @@
     -->
 
     <!-- EXERCISE: Use the <h1> tag to create the main heading of the page. The content should be your full name. -->
-    <h1>wesam abdurabu masharh</h1>
+    <h1>youssef osama</h1>
 
     <!-- EXERCISE: Add a horizontal rule (<hr>) tag below to create a line separator. -->
     
@@ -30,7 +30,7 @@
      <h2>My Introduction</h2>
 
     <!-- EXERCISE: Use a <p> (paragraph) tag to write a short introduction about yourself. -->
-    <p> Hello, my name is Wesam Masharh. I'm a software engineering student at the University of Bahrain (UOB).
+    <p> Hello, my name is youssef osama. I'm a software engineering student at the University of Bahrain (UOB).
     <!-- EXERCISE: Use an <h2> tag to create a sub-heading that says "My Hobbies". -->
     <h2>My Hobbies</h2>
 
